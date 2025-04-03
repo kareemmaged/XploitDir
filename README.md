@@ -4,6 +4,8 @@
 *A fast and powerful directory enumeration tool for penetration testers and security researchers.*
 
 ---
+![ss1](https://github.com/user-attachments/assets/1692c0de-833f-4269-825b-f0e05950ce80)
+
 
 ## **📜 Description**  
 XploitDir is a multithreaded directory brute-forcing tool designed to help security professionals discover hidden directories and files on a target web server. By using a customizable wordlist, it scans URLs for accessible directories, aiding in security assessments and vulnerability testing.
